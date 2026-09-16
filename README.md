@@ -1,4 +1,5 @@
 # ShieldPix 🛡️
+
 > **AI Image Defense & Anti-Deepfake Tool**
 
 ShieldPix is an AI-powered image protection application designed to defend personal photos against unauthorized AI scraping and deepfake manipulation. Built with **PyTorch** and **ResNet50**, it injects an imperceptible adversarial defense layer that obstructs facial feature extraction while retaining high visual fidelity.
@@ -26,5 +27,5 @@ ShieldPix is an AI-powered image protection application designed to defend perso
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/prabhakarsharma0/ShieldPix.git](https://github.com/prabhakarsharma0/ShieldPix.git)
+git clone https://github.com/prabhakarsharma0/ShieldPix.git
 cd ShieldPix
