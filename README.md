@@ -29,3 +29,22 @@ ShieldPix is an AI-powered image protection application designed to defend perso
 ```bash
 git clone https://github.com/prabhakarsharma0/ShieldPix.git
 cd ShieldPix
+
+2. Install Dependencies
+Bash
+pip install -r requirements.txt
+3. Run the Application
+Web UI (Gradio):
+
+Bash
+python gradio_app.py
+Command Line Interface (CLI):
+
+Bash
+python app.py
+📸 Demo & Architecture
+Below is the CLI workflow generating protected adversarial images:
+
+📄 License
+Distributed under the MIT License. See LICENSE for more details.
+
