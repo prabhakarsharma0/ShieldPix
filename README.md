@@ -86,22 +86,16 @@ AI / Facial Feature Extraction Resistance
 
 ---
 
-## 📸 Demo
-
-<img width="1882" height="956" alt="image" src="https://github.com/user-attachments/assets/25d81067-3eb7-4f82-bacd-3625d708ed35" />
-
-
 ### CLI Workflow
 
 The CLI can be used to generate protected adversarial images from input photographs.
-
-*Add screenshots or GIFs of the application here.*
 
 ### Web Interface
 
 The Gradio interface provides real-time controls for adjusting the protection intensity.
 
-*Add a screenshot of the Gradio dashboard here.*
+<img width="1882" height="956" alt="image" src="https://github.com/user-attachments/assets/1fbb0471-4d1b-4d89-af8c-2242c0ef2d44" />
+
 
 ---
 
